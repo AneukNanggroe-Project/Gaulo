@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-concluded-lightgrey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/version-v1.0.0-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/version-v1.0Beta-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/platform-Android-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge" />
 </p>
