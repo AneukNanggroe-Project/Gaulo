@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nav_header_title">@string/app_name</string>
+    <string name="nav_header_subtitle">@string/dev</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_settings">Pengaturan</string>
+    <string name="menu_about">Tentang</string>
+    <string name="app_name">Gaulo</string>
+    <string name="dev">by Seulanga Labs</string>
+    <string name="button">Deteksi</string>
+    <string name="input_text">Masukkan paragraf (maks 255 kata):</string>
+    <string name="input_hint">Ketik teks di sini…</string>
+    <string name="word_count">0/255 Kata</string>
+    <string name="word_count_format">%1$d/256 kata</string>
+    <string name="slang_count_format">%1$d kata gaul terdeteksi</string>
+    <string name="navigation_drawer_open">Buka</string>
+    <string name="navigation_drawer_close">Tutup</string>
+    <string name="description">Tulis paragraf di kotak bawah ini</string>
+    <string name="theme_settings">Tema</string>
+    <string name="current_theme">Otomatis</string>
+    <string name="dropdown">Dropdown</string>
+    <string name="user_interface">Tampilan</string>
+    <string name="research">Research &#38; Development</string>
+    <string name="research_seulanga">Pengembangan &#38; Implementasi</string>
+    <string name="dosen">Research &#38; Concept</string>
+    <string name="dosen_name">Silvia Sandi W. L.</string>
+    <string name="dosen_desc">Penelitian &#38; Konseptualisasi</string>
+    <string name="license">Licenses</string>
+    <string name="license_lib">libRootJava</string>
+    <string name="license_lib_desc">Run Java (and Kotlin) code as root! (APACHE 2.0)</string>
+    <string name="theme_light">Terang</string>
+    <string name="theme_dark">Gelap</string>
+    <string name="theme_auto">Sistem</string>
+    <string name="theme_title">Pilih Tema</string>
+    <string name="theme_cancel">Batal</string>
+</resources>

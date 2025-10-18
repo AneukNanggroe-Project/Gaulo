@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="secondary">#D45487</color>
+    <color name="primary">#734F96</color>
+    <color name="background">#1E1F22</color>
+    <color name="button">@color/primary</color>
+    <color name="textColorPrimary">@color/white</color>
+    <color name="textColorSecondary">@color/textColorHint</color>
+    <color name="textColorHint">#B9BBBE</color>
+    <color name="edit_text">#2E2F33</color>
+    <color name="button_text">@color/white</color>
+    <color name="arrow">@color/white</color>
+    <color name="item_text">@color/white</color>
+</resources>

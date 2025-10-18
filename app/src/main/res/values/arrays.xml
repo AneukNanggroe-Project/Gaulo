@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="slang_words">
+        <item>Gabut</item>
+        <item>Mantul</item>
+        <item>Santuy</item>
+        <item>Sans</item>
+        <item>Baper</item>
+        <item>Goks</item>
+        <item>Kepo</item>
+        <item>Lebay</item>
+        <item>Mager</item>
+        <item>Bucin</item>
+        <item>Ngegas</item>
+        <item>Ciyus</item>
+        <item>Pansos</item>
+        <item>Gaje</item>
+        <item>Woles</item>
+        <item>Slebew</item>
+        <item>Gercep</item>
+        <item>Jomblo</item>
+        <item>Cans</item>
+        <item>Ghosting</item>
+        <item>Sokin</item>
+        <item>Gemoy</item>
+        <item>Caper</item>
+        <item>Sultan</item>
+        <item>Halu</item>
+        <item>Bokap</item>
+        <item>Nyokap</item>
+        <item>Kudet</item>
+        <item>Garing</item>
+        <item>Receh</item>
+        <item>Tumben</item>
+        <item>Miapah</item>
+        <item>Gebetan</item>
+        <item>Galau</item>
+        <item>BT</item>
+        <item>Bete</item>
+        <item>Gokil</item>
+        <item>Nongki</item>
+        <item>Sotoy</item>
+        <item>Tajir</item>
+        <item>Kicep</item>
+        <item>Jangkrik</item>
+        <item>Labil</item>
+        <item>Ngenes</item>
+        <item>Zonk</item>
+        <item>Hoki</item>
+        <item>Katrok</item>
+        <item>Lola</item>
+        <item>Unyu</item>
+        <item>Wkwkwk</item>
+        <item>Xixixi</item>
+        <item>Ngemeng</item>
+        <item>Nolep</item>
+        <item>Japri</item>
+        <item>Salfok</item>
+        <item>Anjay</item>
+        <item>Anjai</item>
+        <item>Gaskeun</item>
+        <item>OTW</item>
+        <item>VCS</item>
+        <item>Misqueen</item>
+        <item>Bokek</item>
+        <item>Julid</item>
+        <item>Ngab</item>
+        <item>SKSD</item>
+        <item>Flexing</item>
+        <item>Salty</item>
+        <item>Mabar</item>
+        <item>Cogan</item>
+        <item>Ngabuburit</item>
+        <item>Ngacir</item>
+        <item>Modus</item>
+        <item>Cekidot</item>
+        <item>Pelakor</item>
+        <item>Cuan</item>
+        <item>Rungkad</item>
+        <item>BU</item>
+        <item>BM</item>
+        <item>Sobat Misqueen</item>
+        <item>Wibu</item>
+        <item>Badhak</item>
+        <item>Betah</item>
+        <item>Ngebet</item>
+        <item>Ngedate</item>
+        <item>Pelesiran</item>
+        <item>Ditodong</item>
+        <item>Kepedean</item>
+        <item>Keroco</item>
+        <item>Auto</item>
+        <item>Sadboy</item>
+        <item>Sadgirl</item>
+        <item>Cekrek</item>
+        <item>Jones</item>
+        <item>Doi</item>
+        <item>CLBK</item>
+        <item>Nyengir</item>
+        <item>Satset</item>
+        <item>Tengil</item>
+        <item>Rebahan</item>
+        <item>Mehong</item>
+    </string-array>
+    <string-array name="slang_explanations">
+        <item>/Baku\nTidak Memiliki Kegiatan\n\n/Penjelasan\nKeadaan bosan karena tidak ada hal yang dikerjakan.</item>
+        <item>/Baku\nMantap\n\n/Penjelasan\nUngkapan apresiasi terhadap sesuatu yang bagus.</item>
+        <item>/Baku\nSantai\n\n/Penjelasan\nTidak terburu-buru atau rileks.</item>
+        <item>/Baku\nSantai\n\n/Penjelasan\nSama seperti "santuy", berarti tenang atau tidak tergesa-gesa.</item>
+        <item>/Baku\nTerbawa Perasaan\n\n/Penjelasan\nMudah emosional atau tersinggung karena suatu hal.</item>
+        <item>/Baku\nGokil\n\n/Penjelasan\nSesuatu yang luar biasa, unik, atau di luar dugaan.</item>
+        <item>/Baku\nIngin Tahu\n\n/Penjelasan\nSikap ingin tahu berlebihan terhadap urusan orang lain.</item>
+        <item>/Baku\nBerlebihan\n\n/Penjelasan\nBersikap atau berekspresi terlalu dramatis.</item>
+        <item>/Baku\nMalas Gerak\n\n/Penjelasan\nEnggan melakukan aktivitas, lebih memilih diam di tempat.</item>
+        <item>/Baku\nBudak Cinta\n\n/Penjelasan\nOrang yang sangat tergila-gila dengan pasangan atau cinta.</item>
+        <item>/Baku\nMarah\n\n/Penjelasan\nBersikap agresif atau mudah terpancing.</item>
+        <item>/Baku\nSerius\n\n/Penjelasan\nBentuk candaan dari kata "serius".</item>
+        <item>/Baku\nPanjat Sosial\n\n/Penjelasan\nMencari perhatian atau eksistensi melalui orang lain.</item>
+        <item>/Baku\nTidak Jelas\n\n/Penjelasan\nHal yang tidak memiliki makna atau tujuan pasti.</item>
+        <item>/Baku\nSantai\n\n/Penjelasan\nKebalikan dari "selow", artinya tidak teburu-buru.</item>
+        <item>/Baku\nAntusias\n\n/Penjelasan\nEkspresi kesenangan yang berlebihan.</item>
+        <item>/Baku\nGerak Cepat\n\n/Penjelasan\nBertindak dengan segera tanpa menunda-nunda.</item>
+        <item>/Baku\nLajang atau Belum Memiliki Pasangan\n\n/Penjelasan\nTidak/belum memiliki pasangan dalam hubungan romantis.</item>
+        <item>/Baku\nCantik\n\n/Penjelasan\nBentuk gaul dari kata "cantik".</item>
+        <item>/Baku\nMenghilang Tanpa Kabar\n\n/Penjelasan\nTiba-tiba memutus komunikasi tanpa penjelasan.</item>
+        <item>/Baku\nKe Sini\n\n/Penjelasan\nUngkapan ajakan agar seseorang mendekat.</item>
+        <item>/Baku\nLucu\n\n/Penjelasan\nMenggemaskan atau menarik perhatian karena kelucuannya.</item>
+        <item>/Baku\nCari Perhatian\n\n/Penjelasan\nBersikap berlebihan agar mendapat perhatian.</item>
+        <item>/Baku\nKaya Raya\n\n/Penjelasan\nSeseorang yang memiliki banyak harta atau uang.</item>
+        <item>/Baku\nBerhalusinasi\n\n/Penjelasan\nMengalami sesuatu yang tidak nyata atau hanya ada dalam pikiran.</item>
+        <item>/Baku\nAyah\n\n/Penjelasan\nAyah.</item>
+        <item>/Baku\nIbu\n\n/Penjelasan\nIbu.</item>
+        <item>/Baku\nKurang Update\n\n/Penjelasan\nTidak mengikuti perkembangan informasi atau tren terbaru.</item>
+        <item>/Baku\nTidak Lucu\n\n/Penjelasan\nLelucon yang kurang menarik atau tidak berhasil menghibur.</item>
+        <item>/Baku\nMurah atau Sederhana\n\n/Penjelasan\nBisa berarti murah dalam harga atau lelucon yang sederhana.</item>
+        <item>/Baku\nJarang Terjadi\n\n/Penjelasan\nMengacu pada sesuatu yang tidak biasa atau tidak sering terjadi.</item>
+        <item>/Baku\nDemi Apa\n\n/Penjelasan\nBentuk candaan dari "demi apa".</item>
+        <item>/Baku\nCalon Pasangan\n\n/Penjelasan\nSeseorang yang disukai atau sedang didekati dalam hubungan romantis.</item>
+        <item>/Baku\nBingung\n\n/Penjelasan\nPerasaan bimbang atau tidak bisa memutuskan sesuatu.</item>
+        <item>/Baku\nKesal\n\n/Penjelasan\nMerasa tidak senang atau terganggu.</item>
+        <item>/Baku\nKesal\n\n/Penjelasan\nMerasa tidak nyaman dengan situasi tertentu.</item>
+        <item>/Baku\nGila\n\n/Penjelasan\nSesuatu yang luar biasa, atau tidak biasa (biasanya dalam konteks positif).</item>
+        <item>/Baku\nNongkrong\n\n/Penjelasan\nBerkumpul bersama teman di suatu tempat.</item>
+        <item>/Baku\nPaling Tahu\n\n/Penjelasan\nMerasa paling tahu sesuatu padahal tidak benar-benar paham.</item>
+        <item>/Baku\nKaya\n\n/Penjelasan\nMemiliki banyak uang atau kekayaan.</item>
+        <item>/Baku\nTerdiam\n\n/Penjelasan\nTidak bisa berbicara atau kehabisan kata-kata.</item>
+        <item>/Baku\nHening\n\n/Penjelasan\nSituasi di mana semua orang diam atau tidak bereaksi.</item>
+        <item>/Baku\nTidak Stabil\n\n/Penjelasan\nMudah berubah-ubah dalam keputusan atau perasaan.</item>
+        <item>/Baku\nMenyedihkan\n\n/Penjelasan\nMengalami nasib buruk atau hal yang menyedihkan.</item>
+        <item>/Baku\nGagal\n\n/Penjelasan\nTidak mendapatkan hasil yang diharapkan atau mengecewakan.</item>
+        <item>/Baku\nKeberuntungan\n\n/Penjelasan\nBeruntung dalam suatu keadaan.</item>
+        <item>/Baku\nKampungan\n\n/Penjelasan\nTidak mengikuti tren atau ketinggalan zaman.</item>
+        <item>/Baku\nLambat Berpikir\n\n/Penjelasan\nKesulitan dalam memproses informasi dengan cepat.</item>
+        <item>/Baku\nImut\n\n/Penjelasan\nLucu atau mengemaskan.</item>
+        <item>/Baku\nTertawa\n\n/Penjelasan\nEkspresi tertawa dalam tulisan.</item>
+        <item>/Baku\nTertawa\n\n/Penjelasan\nSama seperti "wkwkwk", tetapi lebih ringan.</item>
+        <item>/Baku\nBerbicara\n\n/Penjelasan\nBentuk gaul dari "ngomong".</item>
+        <item>/Baku\nNo Life\n\n/Penjelasan\nJarang bersosialisasi.</item>
+        <item>/Baku\nJalur Pribadi\n\n/Penjelasan\nMenghubungi secara personal/private chat.</item>
+        <item>/Baku\nSalah Fokus\n\n/Penjelasan\nFokusnya pindah ke hal lain yang tiba-tiba menarik perhatian.</item>
+        <item>/Baku\nWah\n\n/Penjelasan\nUngkapan kagum, heran, atau terkejut.</item>
+        <item>/Baku\nWah\n\n/Penjelasan\nUngkapan kagum, heran, atau terkejut.</item>
+        <item>/Baku\nAyo\n\n/Penjelasan\nAjakan untuk melakukan sesuatu.</item>
+        <item>/Baku\nSedang Dalam Perjalanan\n\n/Penjelasan\nMenunjukkan sedang menuju ke suatu tempat.</item>
+        <item>/Baku\nPanggilan Video\n\n/Penjelasan\nMelakukan video call. Kadang berkonotasi negatif.</item>
+        <item>/Baku\nMiskin\n\n/Penjelasan\nMiskin.</item>
+        <item>/Baku\nTidak Punya Uang\n\n/Penjelasan\nKondisi sedang kehabisan uang.</item>
+        <item>/Baku\nSirik/Iri\n\n/Penjelasan\nMengomentari hal buruk tentang orang lain secara sinis.</item>
+        <item>/Baku\nBang\n\n/Penjelasan\nSebutan akrab untuk teman, sering dipakai di medsos.</item>
+        <item>/Baku\nSok Kenal Sok Dekat\n\n/Penjelasan\nOrang yang sok akrab padahal baru kenal.</item>
+        <item>/Baku\nPamer\n\n/Penjelasan\nMemamerkan kekayaan, barang, atau pencapaian.</item>
+        <item>/Baku\nKesal Berlebihan\n\n/Penjelasan\nKondisi sebel atau baper berlebihan gara-gara hal sepele.</item>
+        <item>/Baku\nMain Bareng\n\n/Penjelasan\nBermain game atau aktivitas bareng teman.</item>
+        <item>/Baku\nCowok Ganteng\n\n/Penjelasan\nCowok yang ganteng parah.</item>
+        <item>/Baku\nMenunggu Waktu Berbuka\n\n/Penjelasan\nAktivitas sebelum buka puasa.</item>
+        <item>/Baku\nPergi Cepat\n\n/Penjelasan\nKabur atau pergi buru-buru.</item>
+        <item>/Baku\nPura-pura Ada Maksud\n\n/Penjelasan\nPura-pura baik padahal ada tujuan tersembunyi.</item>
+        <item>/Baku\nCoba Lihat\n\n/Penjelasan\nBentuk slang dari "check it out".</item>
+        <item>/Baku\nPerebut Laki Orang\n\n/Penjelasan\nJulukan untuk wanita perusak hubungan orang.</item>
+        <item>/Baku\nUang/Keuntungan\n\n/Penjelasan\nProfit atau pendapatan.</item>
+        <item>/Baku\nHancur/Kalah\n\n/Penjelasan\nSituasi buruk atau bangkrut.</item>
+        <item>/Baku\nButuh Uang\n\n/Penjelasan\nSituasi butuh uang.</item>
+        <item>/Baku\nBanyak Maunya\n\n/Penjelasan\nOrang yang suka minta ini-itu.</item>
+        <item>/Baku\nTeman Miskin\n\n/Penjelasan\nSebutan untuk teman yang lagi butuh uang.</item>
+        <item>/Baku\nPenggemar budaya Jepang\n\n/Penjelasan\nSeseorang yang terlalu suka budaya jepang.</item>
+        <item>/Baku\nBadan yang Besar\n\n/Penjelasan\nOrang bertubuh besar.</item>
+        <item>/Baku\nNyaman\n\n/Penjelasan\nTerasa nyaman di situasi atau tempat tertentu.</item>
+        <item>/Baku\nIngin Banget\n\n/Penjelasan\nIngin sesuatu secara berlebihan.</item>
+        <item>/Baku\nKencan\n\n/Penjelasan\nJalan berdua dengan gebetan atau pacar.</item>
+        <item>/Baku\nJalan-Jalan\n\n/Penjelasan\nLiburan atau refreshing.</item>
+        <item>/Baku\nDipaksa\n\n/Penjelasan\nDiminta sesuatu secara mendadak dan memaksa.</item>
+        <item>/Baku\nTerlalu Percaya Diri\n\n/Penjelasan\nLebih percaya diri dari sewajarnya.</item>
+        <item>/Baku\nBawahan\n\n/Penjelasan\nAnak buah atau orang rendahan.</item>
+        <item>/Baku\nLangsung\n\n/Penjelasan\nTanpa mikir, langsung kejadian.</item>
+        <item>/Baku\nLelaki Galau\n\n/Penjelasan\nLelaki yang sering galau karena cinta.</item>
+        <item>/Baku\nPerempuan Galau\n\n/Penjelasan\nPerempuan yang sering baper karena cinta.</item>
+        <item>/Baku\nAmbil Foto\n\nPenjelasan\nMengambil foto.</item>
+        <item>/Baku\nJomblo Merana\n\n/Penjelasan\nOrang jomblo yang sedih banget.</item>
+        <item>/Baku\nDia\n\n/Penjelasan\nPacar atau orang spesial.</item>
+        <item>/Baku\nCinta Lama Bersemi Kembali\n\n/Penjelasan\nBalikan sama mantan.</item>
+        <item>/Baku\nTertawa\n\n/Penjelasan\nTertawa sampai kelihatan gigi.</item>
+        <item>/Baku\nCepat Tanggap\n\n/Penjelasan\nLangsung gerak cepat.</item>
+        <item>/Baku\nMenyebalkan\n\n/Penjelasan\nBikin emosi, ngeselin.</item>
+        <item>/Baku\nBerbaring\n\n/Penjelasan\nTiduran santai.</item>
+        <item>/Baku\nMahal\n\n/Penjelasan\nHarganya tinggi.</item>
+    </string-array>
+    <string-array name="theme_options">
+        <item>@string/theme_auto</item>
+        <item>@string/theme_light</item>
+        <item>@string/theme_dark</item>
+    </string-array>
+</resources>
+
